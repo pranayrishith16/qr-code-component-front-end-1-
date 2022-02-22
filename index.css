@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
+
+
+body{
+    margin: 0;
+    background-color: hsl(212, 45%, 89%);
+    font-family: 'Outfit', sans-serif;
+}
+
+.container{
+
+}
+
+.topcontainer{
+
+}
+
+.textbottom{
+
+}
+
+.heading{
+    font-weight: 700;
+}
+
+.subtext{
+    font-size: 15px;
+    font-weight: 400;
+}
